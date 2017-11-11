@@ -1,0 +1,22 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "Makes hangman in the command line",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walt1020/constructorHangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walt1020/constructorHangman/issues"
+  },
+  "homepage": "https://github.com/walt1020/constructorHangman#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
